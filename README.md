@@ -22,4 +22,4 @@ pip list
 ```
 #### Untuk menampilkan daftar package yang terinstall 
 ### Contoh Penggunaan
-
+![gambar1](gambar/prak11_1.png)
