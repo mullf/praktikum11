@@ -8,18 +8,18 @@
 ```
 pip -- version
 ```
-Menampilkan versi PIP yang terinstall
+#### Menampilkan versi PIP yang terinstall
 ```
 pip install nama_package
 ```
-Menginstall package
+#### Menginstall package
 ```
 pip uninstall nama_package
 ```
-Menghapus package
+#### Menghapus package
 ```
 pip list
 ```
-Untuk menampilkan daftar package yang terinstall 
+#### Untuk menampilkan daftar package yang terinstall 
 ### Contoh Penggunaan
 
